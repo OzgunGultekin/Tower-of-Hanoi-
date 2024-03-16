@@ -35,6 +35,8 @@ Java StdDraw library was used to visualize the project.
 
 ![Ekran görüntüsü 2024-03-16 140504](https://github.com/OzgunGultekin/Tower-of-Hanoi-/assets/153070257/7143cca8-c687-4648-8dbe-10c5d3a10827)
 
+![Ekran görüntüsü 2024-03-16 140504](https://github.com/OzgunGultekin/Tower-of-Hanoi-/assets/153070257/3b78e72e-af1f-4af4-b29e-cf10c103ab3a)
+
 Thanks to StdDraw, onto the frame;
 
 - Towers
@@ -46,7 +48,24 @@ We were able to add.
 
 ## Algorithms 
 
+In this project there are four solution algorithms, a recursive algorithm and three iterative algorithms.
 
+- Recursive Algorithm
+- Bitwise Algorithm
+- Stack Algorithm
+- Tree Algorithm
+
+## Results
+
+According to the tests, all algorithms showed time complexity in accordance with the O(2n) graph.
+
+The Tree algorithm showed the worst performance. The fact that it has the biggest time complexity and keeps giving errors when a large number of disks are written makes it the worst algorithm.
+
+The second worst algorithm is the Stack algorithm. Because it is the algorithm with the highest time complexity.
+
+The best algorithms were Recursive and Bitwise algorithms.
+
+Note: Test results may vary depending on processor and RAM type.
 
 
 
