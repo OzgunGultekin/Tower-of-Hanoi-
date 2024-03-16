@@ -8,9 +8,9 @@ The Tower of Hanoi is a puzzle game conceived by the French mathematician Édoua
 
 ▪ The rules for moving are as follows:
 
-  -You can only move one disk at a time.
+    - You can only move one disk at a time.
   
-  -You can only move a disk onto an empty tower or onto a disk that is larger.
+    - You can only move a disk onto an empty tower or onto a disk that is larger.
 
 ## Materials
 - Java Programming Language
