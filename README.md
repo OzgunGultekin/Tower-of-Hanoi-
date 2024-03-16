@@ -17,5 +17,8 @@ The Tower of Hanoi is a puzzle game conceived by the French mathematician Édoua
 - Java Swing Library
 - Java StdDraw Library
 - IDE: IntelliJ / Eclipse
+- For this project, Java programming and IDE: IntelliJ / Eclipse are used for coding. Swing and StdDraw libraries are used for GUI and visualization.
+
+  
 
 
