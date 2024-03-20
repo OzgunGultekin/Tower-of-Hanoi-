@@ -35,7 +35,6 @@ Java StdDraw library was used to visualize the project.
 
 ![Ekran görüntüsü 2024-03-16 140504](https://github.com/OzgunGultekin/Tower-of-Hanoi-/assets/153070257/7143cca8-c687-4648-8dbe-10c5d3a10827)
 
-![Ekran görüntüsü 2024-03-16 140504](https://github.com/OzgunGultekin/Tower-of-Hanoi-/assets/153070257/3b78e72e-af1f-4af4-b29e-cf10c103ab3a)
 
 Thanks to StdDraw, onto the frame;
 
